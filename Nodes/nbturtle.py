@@ -22,6 +22,6 @@ def callback(msg):
             display.clear_output(wait=True)
                     
 def plot():
-    rospy.init_node('turtlesim_display', anonymous=True)
+    rospy.init_node('turtlesim_display', anonymous=False)
     rospy.Subscriber('/turtle1/pose', Pose, callback)
     rospy.spin()
