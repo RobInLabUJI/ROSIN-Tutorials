@@ -1,0 +1,12 @@
+name: rosin-tutorials
+
+repo: https://github.com/RobInLabUJI/ROSIN-Tutorials.git
+
+distro: melodic
+
+packages:
+  - ros-melodic-ros-tutorials
+  - ros-melodic-common-tutorials
+  - xvfb=2:1.19.6-1ubuntu4
+  - x11-apps=7.7+6ubuntu1
+  - netpbm=2:10.0-15.3build1
