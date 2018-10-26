@@ -1,4 +1,4 @@
-FROM ros-labs
+FROM robinlab/roslab
 
 USER root
 
@@ -12,8 +12,6 @@ RUN apt-get update \
 	netpbm=2:10.0-15.3build1 \
  && apt-get clean \
  && rm -rf /var/lib/apt/lists/*
-
-RUN pip install matplotlib
 
 # Make sure the contents of our repo are in ${HOME}
 COPY . ${HOME}
