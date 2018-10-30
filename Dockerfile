@@ -1,4 +1,4 @@
-FROM robinlab/roslab
+FROM roslab/roslab:melodic
 
 USER root
 
