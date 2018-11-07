@@ -1,6 +1,5 @@
 ![ROS Industrial Homepage](img/logo.jpg)
 # Interactive Tutorials for ROS-Industrial
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/RobInLabUJI/ROSIN-Tutorials/master?urlpath=lab/tree/README.ipynb)
 
 ## Concepts and Fundamentals
 * [Nodes, Topics, Services, and Parameters](Concepts/Fundamentals/index.ipynb)
@@ -30,3 +29,6 @@
 
 5. Open this URL in your browser:
 [http://localhost:8888/lab/tree/README.ipynb](http://localhost:8888/lab/tree/README.ipynb) (Windows users: you may need to replace `localhost` with `192.168.99.100` or any IP address assigned to your docker machine)
+
+You can also try these tutorials in Binder:
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/RobInLabUJI/ROSIN-Tutorials/master?urlpath=lab/tree/README.ipynb)
