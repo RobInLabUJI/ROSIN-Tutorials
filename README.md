@@ -29,4 +29,4 @@
 ```./docker_run.sh```
 
 5. Open this URL in your browser:
-[http://localhost:8888/lab/tree/README.ipynb](http://localhost:8888/lab/tree/README.ipynb)
+[http://localhost:8888/lab/tree/README.ipynb](http://localhost:8888/lab/tree/README.ipynb) (Windows users: you may need to replace `localhost` with `192.168.99.100` or any IP address assigned to your docker machine)
