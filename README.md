@@ -13,3 +13,20 @@
 ## Transform Library
 * [Introduction to tf](Transform/Intro/index.ipynb)
 * [Broadcaster and Listener in Python](Transform/Programming/index.ipynb)
+
+<hr>
+
+### Usage
+
+1. Install [docker](https://www.docker.com/)
+
+2. Clone this repository in your computer
+
+3. Build the docker image:
+```./docker_build.sh```
+
+4. Run the docker image:
+```./docker_run.sh```
+
+5. Open this URL in your browser:
+[http://localhost:8888/lab/tree/README.ipynb](http://localhost:8888/lab/tree/README.ipynb)
