@@ -1,4 +1,4 @@
-![ROS Industrial Homepage](logo.jpg)
+![ROS Industrial Homepage](img/logo.jpg)
 # Interactive Tutorials for ROS-Industrial
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/RobInLabUJI/ROSIN-Tutorials/master?urlpath=lab/tree/README.ipynb)
 
