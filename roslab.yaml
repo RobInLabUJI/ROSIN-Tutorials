@@ -1,7 +1,5 @@
 name: rosin-tutorials
 
-repo: https://github.com/RobInLabUJI/ROSIN-Tutorials.git
-
 distro: melodic
 
 packages:
