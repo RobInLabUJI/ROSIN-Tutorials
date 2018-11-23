@@ -6,7 +6,9 @@ RUN apt-get update \
  && apt-get install -yq --no-install-recommends \
     ros-melodic-ros-tutorials \
     ros-melodic-common-tutorials \
-    ros-melodic-geometry2 \
+    ros-melodic-tf2 \
+    ros-melodic-tf2-ros \
+    ros-melodic-tf-conversions \
     xvfb=2:1.19.6-1ubuntu4 \
     x11-apps=7.7+6ubuntu1 \
     netpbm=2:10.0-15.3build1 \
