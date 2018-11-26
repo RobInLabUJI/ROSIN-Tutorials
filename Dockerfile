@@ -7,6 +7,7 @@ RUN apt-get update \
     ros-melodic-ros-tutorials \
     ros-melodic-common-tutorials \
     ros-melodic-tf2 \
+    ros-melodic-tf2-tools \
     ros-melodic-tf2-ros \
     ros-melodic-tf-conversions \
     xvfb=2:1.19.6-1ubuntu4 \
