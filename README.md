@@ -41,3 +41,5 @@ You can also try these tutorials in Binder:
 This work, "Interactive Tutorials for ROS-Industrial", is a derivative of "[ROS Tutorials](http://wiki.ros.org/ROS/Tutorials)" by the [Open Source Robotics Foundation](http://www.osrfoundation.org/), used under [CC BY](https://creativecommons.org/licenses/by/3.0/), and "[ROS-Industrial Training Material](http://ros-industrial.github.io/industrial_training/index.html)" by the [ROS-Industrial Consortium](http://rosindustrial.org/ric), used under an [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
 "Interactive Tutorials for ROS-Industrial" is licensed under an [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) by the [Robotic Intelligence Lab](http://robinlab.uji.es) of [Jaume-I University (Castelló, Spain)](http://www.uji.es).
+
+![Robinlab homepage](img/robinlab_logo.png)
