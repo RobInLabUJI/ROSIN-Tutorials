@@ -1,4 +1,4 @@
-![ROS Industrial Homepage](img/logo.jpg)
+[![ROS Industrial Homepage](img/logo.jpg)](https://rosindustrial.org/)
 # Interactive Tutorials for ROS-Industrial
 
 ## Concepts and Fundamentals
@@ -42,4 +42,4 @@ This work, "Interactive Tutorials for ROS-Industrial", is a derivative of "[ROS 
 
 "Interactive Tutorials for ROS-Industrial" is licensed under an [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) by the [Robotic Intelligence Lab](http://robinlab.uji.es) of [Jaume-I University (Castelló, Spain)](http://www.uji.es).
 
-![Robinlab homepage](img/robinlab_logo.png)
+[![Robinlab homepage](img/robinlab_logo.png)](http://robinlab.uji.es)
