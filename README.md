@@ -45,9 +45,8 @@ This work, "Interactive Tutorials for ROS-Industrial", is a derivative of "[ROS 
 
 <hr>
 
-<a href="http://rosin-project.eu"><img align="left" src="img/Logo_ROSIN.png"></a>
-<img align="left" src="img/EU-Flag.png">
+<a href="http://rosin-project.eu"><img style="margin: 0px 20px; float: left" src="img/Logo_ROSIN.png"></a>
+<img style="margin: 0px 20px; float: left" src="img/EU-Flag.png">
 This work is funded by [ROSIN Education Projects](http://rosin-project.eu/eps),
 which has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 732287. The opinions expressed on this website reflect only the author's view, and in no way the European Commission's opinions.
-
 The European Commission is not responsible for any use that may be made of the information it contains.
