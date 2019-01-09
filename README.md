@@ -43,3 +43,11 @@ This work, "Interactive Tutorials for ROS-Industrial", is a derivative of "[ROS 
 <a href="http://robinlab.uji.es"><img align="left" src="img/robinlab_logo.png"></a>
 "Interactive Tutorials for ROS-Industrial" is licensed under an [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) by the [Robotic Intelligence Lab](http://robinlab.uji.es) of [Jaume-I University (Castelló, Spain)](http://www.uji.es).
 
+<hr>
+
+<a href="http://rosin-project.eu"><img align="left" src="img/Logo_ROSIN.png"></a>
+<img align="left" src="img/EU-Flag.png">
+This work is funded by [ROSIN Education Projects](http://rosin-project.eu/eps),
+which has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 732287. The opinions expressed on this website reflect only the author's view, and in no way the European Commission's opinions.
+
+The European Commission is not responsible for any use that may be made of the information it contains.
