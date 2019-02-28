@@ -1,8 +1,15 @@
 name: rosin-tutorials
 
-distro: melodic
+base:
+  ubuntu: melodic
+  ros: melodic-ros-base
 
-packages:
+pip:
+  - ipykernel
+  - ipython
+  - matplotlib
+
+apt:
   - ros-melodic-ros-tutorials
   - ros-melodic-common-tutorials
   - ros-melodic-tf2
@@ -13,3 +20,6 @@ packages:
   - xvfb=2:1.19.6-1ubuntu4
   - x11-apps=7.7+6ubuntu1
   - netpbm=2:10.0-15.3build1
+
+custom:
+  - python -m ipykernel install
