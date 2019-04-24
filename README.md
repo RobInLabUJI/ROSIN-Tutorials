@@ -28,7 +28,12 @@
 ```./roslab_run.sh```
 
 5. Open this URL in your browser:
-[http://localhost:8888/lab/tree/README.ipynb](http://localhost:8888/lab/tree/README.ipynb) (Windows users: you may need to replace `localhost` with `192.168.99.100` or any IP address assigned to your docker machine)
+[http://localhost:8888/lab/tree/README.ipynb](http://localhost:8888/lab/tree/README.ipynb)
+
+Tested on:
+* Windows 10 Education and Docker Desktop 2.0.0.3 (engine: 18.09.2)
+* macOS Mojave 10.14.4 and Docker Desktop 2.0.0.3 (engine: 18.09.2)
+* Ubuntu Linux 16.04.6 and Docker 18.06.1-ce
 
 You can also try these tutorials in Binder:
 
