@@ -22,10 +22,10 @@
 2. Clone this repository in your computer
 
 3. Build the docker image:
-```./roslab_build.sh```
+```docker build -f roslab.dockerfile -t rosin-tutorials .```
 
 4. Run the docker image:
-```./roslab_run.sh```
+```docker run --rm -p 8888:8888 rosin-tutorials```
 
 5. Open this URL in your browser:
 [http://localhost:8888/lab/tree/README.ipynb](http://localhost:8888/lab/tree/README.ipynb)
