@@ -4,3 +4,5 @@ roslab.yaml
 roslab.dockerfile
 roslab_build.sh
 roslab_run.sh
+_config.yml
+Dockerfile
